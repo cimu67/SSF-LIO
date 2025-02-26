@@ -1,4 +1,4 @@
-# SSF-LIO: Self-Supervised Feature-enhanced LiDAR-Inertial Odometry
+# SSF-LIO: Exploring Self-Supervised Feature of Intensity Images to Improve LiDAR-Inertial Odometry
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-SSF--LIO-blue?logo=github)](https://github.com/cimu67/SSF-LIO)
 
