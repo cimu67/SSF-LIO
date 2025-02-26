@@ -15,10 +15,9 @@ This repository provides the official implementation of our novel LiDAR-Inertial
 - 📊 Multi-modal residual optimization via error-state iterated Kalman filter
 
 ## 📊 Benchmark Performance
-| Dataset       | ATE Reduction |  Scenario Coverage  |
-|---------------|---------------|---------------------|
-| New College   | 21.1%         | Urban sparse-feature|
-| Enwide        | 19.4%         | Degenerate tunnel   |
-
+| Dataset       | ATE Reduction |
+|---------------|---------------|
+| New College   | 21.1%         | 
+| Enwide        | 19.4%         |
 
 This work is submitted to IROS 2025. We will release our code upon paper acceptance—stay tuned!
